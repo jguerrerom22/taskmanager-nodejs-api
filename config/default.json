@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "taskManagerJwtPrivateKey",
+    "dbUrl": "postgres://postgres:postgres@localhost:5432/taskmania"
+}

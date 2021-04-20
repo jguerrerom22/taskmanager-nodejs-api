@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "kuvidJwtPrivateKey",
+    "db": "kuvidDb"
+}
